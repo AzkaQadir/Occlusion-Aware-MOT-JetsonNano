@@ -55,7 +55,7 @@ End-to-end MTMCT system with occlusion reasoning for improved online tracking co
 
 ## 5. Robust Cross-Drone Multi-Target Association Using 3D Spatial Consistency  
 **Authors:** T. Pan, H. Dong, B. Deng, J. Gui, B. Zhao  
-**Venue:** *IEEE Signal Processing Letters*, 2023/2024  
+**Venue:** *IEEE Signal Processing Letters*, 2023  
 **DOI:** [https://doi.org/10.1109/LSP.2023.3341009](https://doi.org/10.1109/LSP.2023.3341009)
 
 **Summary:**  
