@@ -4,6 +4,6 @@ Research and implementation for occlusion-aware multi-object tracking of ground 
 This repository contains references for a project on **occlusion-aware multi-object tracking (MOT) of ground vehicles using drones**.  
 
 Currently, it includes:
-- Verified research paper links in [`papers/verified_links.md`](papers/verified_links.md)
+- Verified research paper links in [`verified_links.md`](verified_links.md)
 
 The project will later include implementation code and proposal documents.
