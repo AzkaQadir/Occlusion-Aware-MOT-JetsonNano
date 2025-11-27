@@ -65,7 +65,7 @@ Employs 3D spatial consistency to strengthen cross-drone association under occlu
 
 ---
 
-## 6. Observation-Centric SORT (OC-SORT): Rethinking SORT for Robust MOT  
+## 6. Observation-Centric SORT (OC-SORT): Rethinking SORT for Robust MOT (baseline)
 **Authors:** J. Cao et al.  
 **Venue:** arXiv preprint, 2022  
 **arXiv:** [https://arxiv.org/abs/2203.14360](https://arxiv.org/abs/2203.14360)
